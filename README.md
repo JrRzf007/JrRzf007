@@ -1,5 +1,5 @@
 - 👋 Salut, je suis Josephson Junior
-- 👀 Je m'intéresse surtout à ce qu'on appelle communement "Data science"
+- 👀 Je suis plutôt tourné vers l'anlayse des données
 - 🌱 J'essaie de m'améliorer dans ce domaine puisqu'il semble assez profond
 - 💞️ Si Github permettait de se faire des amis, ça me tente toujours.
 
